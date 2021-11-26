@@ -1,19 +1,3 @@
-<h1 align="center">
-    <img src="https://raw.githubusercontent.com/flowforfrank/seo-checklist/master/seo-checklist.png" alt="SEO Checklist" />
-</h1>
-
-<h4 align="center">🕵️ The SEO Checklist is a comprehensive list of SEO requirements you need to address to rank higher and elevate your SEO game to the next level. 🆙</h4>
-
-<p align="center">
-    <a href="https://webtips.dev"><img src="https://img.shields.io/badge/webtips.dev-FCC700.svg?labelColor=221F22&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAWCAYAAABtwKSvAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAN4SURBVHgBzVdLUhRBEH3VPaMS4QJPIDdAlmgQwgnQE6An8AiGJ1BvACdwOAFtGILhQuEENDdgYcinP2VW9TSTmZUFLsnNTGdnvcrPy6xq1x3h1AMrYNL3WHvwAse4p9IcYdMBB1znPI4L70ynn+Eei+tl8oP0wFnhe5wlxkiN75N4yz+qzIQcr+jvO64vCjy1QKzylo/wxK3h3LJvf+ALbfJqfKa1u+U63lq2F0dYmQKnwr8WW9ON6J8QV2I1RCSkR1U0Fs18hmY9NrWq+btw9i57onTWdmpg+9L2w6LZ5DH1zNI6anJeZNYXNs1cgZdaVxq6IKGKVIpl6R2Wr79nElViW6sKl+oijEsw6sCOYlilSmls6g+iY5sGsJ1tI9NRXEZv2ZPT/rdMSEyS9sHjJPzGYGgUf0UqIpjuYcYJCrz5lr5zmYpZ2TarOMdu/6ikGi3gh74fgnFG3zhdykzJo5SyOqGZgUzwpNfZ5kPiLmxKxqo2cd3gfwxmcpkGQy9EZh1zjsb5yW22uplpbc2f9dDQ1QoH4C3vksqME2+ozBbOOUB0mPH1+if9Z7OdKPSJOxhtf7FxLilWU/AfODYfGgk2+dEBezfY9G7EDn1rNH+12HYudIImfXPD11ZmuiGA3mNf6C7xGgsP+NlSldeYcVsxNBR28KNz0n7Ebh8Z/eIXLCn4ponhfM7zUofMxXGuNhxtdDPTZvuh8uD4bGgkA6HDLOBbVLOaP9gnwZRXxklLfaKbeaTAdJ3s5fkUG5vW7HCMcmnA1ZUMjW0Minrkf++EfcS2JmE4LJNgkuxhGK/JyewXNkQJSbULvHHSuWq86kyvsKuwd4xBUfG1Gtu4mVT8KlVIP1XfEB1oh49MU/NPAxrfu9ycwN6rS+BNI1tUU9iRkuN/XfmArc8iXW0RDIy+4QC6r+JI51RTmzXKPkkWt3c4nzxXg4IlI3OoVvxRBGP0gZC+ZeCYZ9tlP+KqOCiYtJCVFFheBjIoDd1Cav0BqSsjs6EWW9dxahzTPml4knlwlWXvDfuk8kys6VsYVrP/XRwkniHGhl0GxxvnmUWxqKbK6yEzimZJkCSYXDasxeOGya3boNgoFtVMio3vnEFNCt5iyQSGc80h9ijKbb54smFXJghR5HPBbtm3UDVSjb5AZ/yOlUtUkNDH3SElmA0AuuWb1foHkNJ6z8TJflAAAAAASUVORK5CYII=" alt="Learn more about JavaScript and web development" /></a>
-    <a href="https://twitter.com/flowforfrank"><img src="https://img.shields.io/badge/Twitter-15202B.svg?logo=Twitter" alt="Follow on Twitter"/></a>
-    <a href="https://medium.com/@ferencalmasi"><img src="https://img.shields.io/badge/Medium-000.svg?logo=medium" alt="Follow on Medium"/></a>
-    <br />
-    <a href="https://www.buymeacoffee.com/webtips" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Support on Buy Me A Coffee" width="150px"></a>
-    <br />• • •<br />
-    <a href="https://github.com/flowforfrank/performance-checklist" alt="Check out the Performance checklist">📈 Performance Checklist</a>
-</p>
-
 ## 🗃️ Table of Contents
 
 1. **🛠️ [Tools](#%EF%B8%8F-tools)**  
