@@ -1,10 +1,6 @@
 ## 🗃️ Table of Contents
 
-1. **🛠️ [Tools](#%EF%B8%8F-tools)**  
-    1.1. [Analytics Tools](#analytics-tools)  
-    1.2. [SEO Checkers](#seo-checkers)  
-    1.3. [Chrome Extensions](#chrome-extensions)  
-    1.4. [Other Tools](#other-tools)
+
 2. **⚙️ [Technical SEO](#%EF%B8%8F-technical-seo)**  
     2.1. [Identify crawl errors](#%EF%B8%8F-identify-crawl-errors)  
     2.2. [URL inspection](#%EF%B8%8F-url-inspection)   
@@ -64,60 +60,6 @@
     - 4.1.2. [Good vs bad links](#%EF%B8%8F-good-vs-bad-links)
     - 4.1.3. [The use of rel](#%EF%B8%8F-the-use-of-rel)
 5. **📚 [Other Resources](#-other-resources)**
-
-## 🛠️ Tools
-ℹ️ *If you can't measure it, you can't improve it - The first step is to put analytics tools in place which can help you draw conclusions and locate potential issues*
-
-> 🆓 The tools listed below are free to use
-
-- #### Analytics Tools
-    - 📈 [Google Analytics](http://analytics.google.com/) - *Analyse traffic and behaviour of users on your site. Launch experiments and track conversions*
-    - 📈 [Google Search Console](https://search.google.com/search-console/about) - *Measure your site's search traffic and performance, shows click-through rate and issues such as unreachable links*
-    - 📈 [Google Keyword Planner](https://ads.google.com/intl/en_gb/home/tools/keyword-planner/) - *Plan your content around keywords that you want to rank for. Compare keywords to check number of searches and competitiveness*
-    - 📈 [Google Trends](https://trends.google.com/trends) - *Discover what the world is searching for*
-    - 📈 [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster) - *Track impressions, plan keywords and many more for Bing*
-    - 📈 [SimilarWeb](https://www.similarweb.com/) - *Identify traffic sources*
-    - 📈 [LSIGraph](https://lsigraph.com/) - *Generate latent semantic indexing terms for your keywords*
-    - 📈 [WordPress - Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - *WordPress plugin for on-page content analysis*
-    - 📈 [WordPress - RankMath](https://wordpress.org/plugins/seo-by-rank-math/) - *WordPress plugin for seo analysis*
-- #### SEO Checkers
-  *Online tools that helps you locating and addressing issues that can hurt your ranking*
-    - ✔️ [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - *Addressing technical and on-site seo issues*
-        - Built inside Chrome DevTools.
-        - Apart from SEO, it can be used to audit for **performance, pwa, best practices and accessibility** issues
-    - ✔️ [Webhint](https://webhint.io/) - *Checks for issues such as: **accessibility, compatibility, pwa, performance, pitfalls and security***
-    - ✔️ [Google’s Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) - *Test if page is mobile friendly*
-    - ✔️ [Varvy SEO tool](https://varvy.com/) - *Checks for:*
-        - Accessibility issues
-        - Excessive amount of links and they are findable
-        - Performance: page speed is optimal
-        - Robots.txt and sitemap are available
-        - Security: page is served over HTTPS
-        - Site availability: Google has access to your CSS and JavaScript resources
-        - Site is responsive
-        - Validates document
-    - ✔️ [SEO Tester Online](https://suite.seotesteronline.com/seo-checker) - *Analyse your site based on 4 different aspects:
-        - Structure of document
-        - Content on page
-        - Web & mobile performance
-        - Social presence (open graph tags)
-    - ✔️ [Sitechecker Pro](https://sitechecker.pro/)
-    - ✔️ [Seobility](https://www.seobility.net/en/seocheck/) - *Factors includes **meta information, page quality and structure, links and server configuration***
-    - ✔️ [SEO Site Checkup](https://seositecheckup.com/) - *Apart from general SEO, also checks for: **speed, server & security and mobile usability***
-- #### Chrome Extensions
-    - 💻 [Serpstat Website SEO Checker](https://chrome.google.com/webstore/detail/serpstat-website-seo-chec/fcgbopaomlpldhbinhgebmkcnkfconmn)
-    - 💻 [SEO Checker Tool](https://chrome.google.com/webstore/detail/seo-checker-tool-get-free/ljkhgacfcnhpfafpcdpaadgklajibdak)
-    - 💻 [Website SEO Checker: Free Audit & Analysis](https://chrome.google.com/webstore/detail/website-seo-checker-free/nljcdkjpjnhlilgepggmmagnmebhadnk)
-    - 💻 [Keywords Everywhere - Chrome & Firefox](https://keywordseverywhere.com/)
-- #### Other Tools
-    - 🛠️ [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/sharing/) - *Validate open graph tags*
-    - 🛠️ [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/)
-    - 🛠️ [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/)
-    - 🛠️ [Structured Data Linter](http://linter.structured-data.org/)
-    - 🛠️ [W3C Markup Validation Service](https://validator.w3.org/)
-    - 🛠️ [LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/)
-    - 🛠️ [Pinterest Rich Pins Validator](https://developers.pinterest.com/tools/url-debugger/)
-    - 🛠️ [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 
 ## ⚙️ Technical SEO
 ℹ️ *The purpose of Technical SEO is to help search engines find and crawl your website without any problems.*
