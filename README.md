@@ -1,60 +1,3 @@
-## 🗃️ Table of Contents
-
-3. **📜 [On-Site SEO](#-on-site-seo)**  
-    3.1. [Meta information](#meta-information)
-    - 3.1.1. [Has meta description](#%EF%B8%8F-has-meta-description)
-    - 3.1.2. [Has meta viewport](#%EF%B8%8F-has-meta-viewport)
-    - 3.1.3. [Has open graph tags](#%EF%B8%8F-has-open-graph-tags)
-    
-    3.2. [Document head](#document-head)
-    - 3.2.1. [Doctype is set to HTML5](#%EF%B8%8F-doctype-is-set-to-html5)
-    - 3.2.2. [Document has a title tag](#%EF%B8%8F-document-has-a-title-tag)
-    - 3.2.3. [Document has a valid hreflang](#%EF%B8%8F-document-has-a-valid-hreflang)
-    - 3.2.4. [Favicon exists](#%EF%B8%8F-favicon-exists)
-
-    3.3. [Document structure](#document-structure)
-    - 3.3.1. [SEO friendly URLs](#%EF%B8%8F-seo-friendly-urls)
-    - 3.3.2. [One H1 per page](#%EF%B8%8F-one-h1-per-page)
-    - 3.3.3. [Image elements have [alt] attributes](#%EF%B8%8F-image-elements-have-alt-attributes)
-    - 3.3.4. [Document uses legible font sizes](#%EF%B8%8F-document-uses-legible-font-sizes)
-    - 3.3.5. [Tap targets are sized appropriately](#%EF%B8%8F-tap-targets-are-sized-appropriately)
-    - 3.3.6. [Document avoids plugins](#%EF%B8%8F-document-avoids-plugins)
-
-    3.4. [Readability](#readability)
-    - 3.4.1. [Title width](#%EF%B8%8F-title-width)
-    - 3.4.2. [Subheading distribution](#%EF%B8%8F-subheading-distribution)
-    - 3.4.3. [Links have descriptive text](#%EF%B8%8F-links-have-descriptive-text)
-    - 3.4.4. [Internal links](#%EF%B8%8F-internal-links)
-    - 3.4.5. [Outbound links](#%EF%B8%8F-outbound-links)
-    - 3.4.6. [Use of keyphrases](#%EF%B8%8F-use-of-keyphrases)
-    - 3.4.7. [Use of passive voice](#%EF%B8%8F-use-of-passive-voice)
-    - 3.4.8. [Use of transition words](#%EF%B8%8F-use-of-transition-words)
-    - 3.4.9. [Text length](#%EF%B8%8F-text-length)
-    - 3.4.10. [Length of paragraphs](#%EF%B8%8F-length-of-paragraphs)
-    - 3.4.11. [Length of sentences](#%EF%B8%8F-length-of-sentences)
-4. **📊 [Off-Site SEO](#-off-site-seo)**  
-    4.1. [Link building](#link-building)
-    - 4.1.1. [Amount of links](#%EF%B8%8F-amount-of-links)
-    - 4.1.2. [Good vs bad links](#%EF%B8%8F-good-vs-bad-links)
-    - 4.1.3. [The use of rel](#%EF%B8%8F-the-use-of-rel)
-5. **📚 [Other Resources](#-other-resources)**
-
-## 📜 On-Site SEO
-ℹ️ *On-Site SEO is about the structure and content of your page. It's goal is to guide you how to create SEO friendly content that is easily understandable by search engines.*
-
-### Meta information
-ℹ️ *Meta information provides details about the webpage. Metadata will not be displayed but will be parsed by search engines*
-
-> #### ☑️ Has meta description
-> Meta descriptions provides a summary of a page's content that search engines include in search results
->
-> 📖 [Web.dev - Document has a meta description](https://web.dev/meta-description/?utm_source=lighthouse&utm_medium=devtools)
-
-```html
-<meta name="description" content="Meta descriptions should not be more than 150 characters, but should be above 120 characters" />
-```
-----------
-
 > #### ☑️ Has meta viewport
 > Meta viewports optimize your app for mobile screens.
 >
@@ -271,9 +214,6 @@
 > - is used in image [alt] attributes
 > - is not too long
 > - Density is between 1-3% *(number of times your keyphrase appears in a copy, eg.: your text is 100 words and 5 of those are your keywords than you have a keyword density of 5%)*
->
-> 📖 [Yoast - The importance of keyword density](https://yoast.com/academy/seo-copywriting-training/keyphrase-density/)  
-> 📖 [Yoast - The length of your focus keyword](https://yoast.com/academy/keyword-research-training/keyphrase-length/)
 ----------
 
 > #### ☑️ Use of passive voice
